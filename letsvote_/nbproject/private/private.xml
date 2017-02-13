@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/letsvote/view/HomeView.php</file>
+            <file>file:/C:/xampp/htdocs/letsvote/index.php</file>
+            <file>file:/C:/xampp/htdocs/letsvote/controller/FileManager.php</file>
+            <file>file:/C:/xampp/htdocs/letsvote/model/Result.php</file>
+            <file>file:/C:/xampp/htdocs/letsvote/model/Position.php</file>
+            <file>file:/C:/xampp/htdocs/letsvote/model/ElectionData.php</file>
+            <file>file:/C:/xampp/htdocs/letsvote/controller/DatabaseManager.php</file>
+            <file>file:/C:/xampp/htdocs/letsvote/model/Candidate.php</file>
+            <file>file:/C:/xampp/htdocs/letsvote/controller/Home.php</file>
+            <file>file:/C:/xampp/htdocs/letsvote/view/ResultsView.php</file>
+            <file>file:/C:/xampp/htdocs/letsvote/view/CandidateListView.php</file>
+            <file>file:/C:/xampp/htdocs/letsvote/controller/ElectionController.php</file>
+            <file>file:/C:/xampp/htdocs/letsvote/css/Common.css</file>
+        </group>
+    </open-files>
+</project-private>
